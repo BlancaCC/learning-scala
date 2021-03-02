@@ -7,7 +7,9 @@ Some programs and notes to learn Scala
 
 ## Learning materials   
 
-- https://docs.scala-lang.org/overviews/scala-book/prelude-taste-of-scala.html
+- https://docs.scala-lang.org/overviews/scala-book/prelude-taste-of-scala.html  
+- Sergio recomendations: https://github.com/DaniSancas/TallerScalaPEUM  
+
 
 ## More tools   
 

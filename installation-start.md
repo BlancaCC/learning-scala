@@ -9,3 +9,10 @@ https://wiki.archlinux.org/index.php/Scala
 $ scalac HelloWorld.scala
 $ scala HelloWorld
 ```
+
+# Emacs  
+
+To install scala mode 
+https://github.com/hvesalai/emacs-scala-mode  
+
+Remember to do `package-refresh-contents` 
