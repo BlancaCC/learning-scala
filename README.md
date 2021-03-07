@@ -9,7 +9,9 @@ Some programs and notes to learn Scala
 
 - https://docs.scala-lang.org/overviews/scala-book/prelude-taste-of-scala.html  
 - Sergio recomendations: https://github.com/DaniSancas/TallerScalaPEUM  
-
+- Scala Exercises - Tutorial: https://www.scala-exercises.org/scala_tutorial/
+- Scala Exercises - Standard Library: https://www.scala-exercises.org/std_lib/
+- Scala Exercises - Property Based Testing: https://www.scala-exercises.org/scalacheck/
 
 ## More tools   
 
